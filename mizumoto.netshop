@@ -269,7 +269,7 @@
     <section class="hero-split-container" id="top">
         <div class="hero-left">
            <img src="https://i.imgur.com/c93PzD5.png" alt="水元医院 ロゴ" class="logo">
-            <h1>睡眠医学の<br>新しいアプローチ。</h1>
+            <h1>睡眠医学の<br>新しいアプローチ</h1>
             <p>水元医院が提供する、次世代の睡眠ケア「synchrowave01」</p>
             <a href="#subscription" class="cta-button">サブスクリプションプランを確認する</a>
         </div>
