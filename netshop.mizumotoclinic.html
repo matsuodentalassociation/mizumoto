@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>synchrowave01 for 水元医院 - Ver.19</title>
 <style>
-   /* 基本スタイル */
+    /* 基本スタイル */
     body {
         margin: 0;
         font-family: 'Helvetica Neue', 'Helvetica', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Arial', 'Yu Gothic', 'Meiryo', sans-serif;
@@ -264,7 +264,6 @@
 <body>
 
 <main>
-    <!-- ヒーローセクション -->
     <section class="hero-split-container" id="top">
         <div class="hero-left">
            <img src="https://i.imgur.com/c93PzD5.png" alt="水元医院 ロゴ" class="logo">
@@ -280,26 +279,16 @@
         </div>
     </section>
 
-    <!-- 情報カードセクション -->
     <section id="info-cards" class="section">
         <div class="container">
             <div class="card-container">
-                <!-- 院長からのメッセージ -->
                 <div class="card recommendation-card">
                     <div class="photo">
-                        <img src="https://i.imgur.com/4Wa5SfV.png" alt="平瀬院長">
+                        <img src="https://i.imgur.com/4Wa5SfV.png" alt="水元医院 院長">
                     </div>
                     <h2 class="text-center">院長からのメッセージ</h2>
-                    <p>水元医院は親子三代に渡って東京都葛飾区で皆様に支えられ、お陰様で50年以上地域医療に携わっております。
-地域の皆さまの母親のような存在であり続けたいと思っております。
-
-現在は、日々のストレスや食生活などの生活習慣などにより、3大成人病をはじめとした現代人ならではの病気にかかる危険性をはらんでいます。
-診療では、病気を未然に防ぐため、日々の生活に関するアドバイスなどをさせて頂いております。
-
-子どもから大人まで体調が悪い方や、持病でお困りの方、健康診断の結果などお困りの方など、些細なこともお気軽にご相談頂ければ幸いです。
-</p>
+                    <p>水元医院は親子三代に渡って東京都葛飾区で皆様に支えられ、お陰様で50年以上地域医療に携わっております。地域の皆さまの母親のような存在であり続けたいと思っております。<br><br>現在は、日々のストレスや食生活などの生活習慣などにより、3大成人病をはじめとした現代人ならではの病気にかかる危険性をはらんでいます。診療では、病気を未然に防ぐため、日々の生活に関するアドバイスなどをさせて頂いております。<br><br>子どもから大人まで体調が悪い方や、持病でお困りの方、健康診断の結果などお困りの方など、些細なこともお気軽にご相談頂ければ幸いです。</p>
                 </div>
-                <!-- 製品紹介 -->
                 <div id="product" class="card product-card">
                     <div class="image">
                         <img src="https://i.imgur.com/9UuhTlY.png" alt="synchrowave01 Vr.2 商品写真">
@@ -316,7 +305,6 @@
         </div>
     </section>
 
-    <!-- サブスクリプション申し込み -->
     <section id="subscription" class="section" style="background-color: #fff;">
         <div class="container text-center">
             <h2 style="font-size: 2rem;">サブスクリプションで始める<br>最先端の睡眠ケア</h2>
@@ -325,7 +313,7 @@
                 <p class="price">¥3,500 <span>/ 月（税込）</span></p>
                 <div class="base-button-placeholder">
                    <a href="https://vrr1.base.shop/items/112041165" class="base-button-placeholder">
-  定期便プランを申し込む
+    定期便プランを申し込む
 </a>
                 </div>
                 <p class="note">※ネットショップBASEでサブスクリプション決済をお願いします。</p>
@@ -333,7 +321,6 @@
         </div>
     </section>
 
-    <!-- オプション品紹介 -->
     <section id="option" class="section">
         <div class="container">
             <h2 class="text-center" style="font-size: 2rem;">より広く共振波エリアを求める方へ</h2>
@@ -343,33 +330,32 @@
                 </div>
                 <div class="description">
                     <h3>拡張アンテナ（オプション品）</h3>
-                     <p class="price" style="font-size: 2.2rem;">¥5,000 <span>（税込・買い切り）</span></p>
+                    <p class="price" style="font-size: 2.2rem;">¥5,000 <span>（税込・買い切り）</span></p>
                     <h4>製品仕様</h4>
                     <p>サイズ：56㎜ × 56㎜ × 12㎜<br>
-                       重量：35g<br>
-                       接続コード：1m / 18g</p>
+                        重量：35g<br>
+                        接続コード：1m / 18g</p>
                     <h4>商品説明</h4>
                     <p>共振エリアを2倍に拡張するためのアンテナです</p>
                     <div class="base-button-placeholder">
                         <a href="https://vrr1.base.shop/items/112099018" class="base-button-placeholder">
-  通常購入する
+    通常購入する
 </a>
 
                     </div>
-                     <p class="note">※本製品はsynchrowave01本体のオプション品です。単体ではご使用になれません。<br>※ネットショップBASEでサブスクリプション決済をお願いします。</p>
+                    <p class="note">※本製品はsynchrowave01本体のオプション品です。単体ではご使用になれません。<br>※ネットショップBASEでサブスクリプション決済をお願いします。</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Q&Aセクション -->
     <section id="faq" class="section" style="background-color: #fff;">
         <div class="container">
             <h2 class="text-center" style="font-size: 2rem;">よくあるご質問</h2>
             <div class="qa-section">
                 <div class="qa-item">
                     <p class="qa-question">デバイスはいつ、どのように受け取れますか？</p>
-                    <p class="qa-answer">A. 決済完了後、有田歯科医院の受付にてデバイスをお渡しします。その際に、専門のスタッフが使用方法を丁寧にご説明いたしますのでご安心ください。</p>
+                    <p class="qa-answer">A. 決済完了後、水元医院の受付にてデバイスをお渡しします。その際に、専門のスタッフが使用方法を丁寧にご説明いたしますのでご安心ください。</p>
                 </div>
                 <div class="qa-item">
                     <p class="qa-question">支払い方法について教えてください。</p>
@@ -383,7 +369,7 @@
                     <p class="qa-question">お手入れや取り扱いで注意することは？</p>
                     <p class="qa-answer">A. 使用後は柔らかい布で軽く拭き、清掃してください。水や湿気にさらさないよう注意し、乾燥した場所で保管してください。ご使用前に必ず取扱説明書をお読みください。</p>
                 </div>
-                 <div class="qa-item">
+                   <div class="qa-item">
                     <p class="qa-question">故障した場合の補償はありますか？</p>
                     <p class="qa-answer">A.故障した場合は直ちに代替品をご用意いたします。</p>
                 </div>
@@ -392,33 +378,31 @@
     </section>
 </main>
 
-<!-- フッター -->
 <footer class="footer">
     <div class="container">
         <div class="footer-grid">
             <div class="footer-col">
                 <h4>クリニック情報</h4>
                 <p><strong>水元医院</strong></p>
-                <p>〒160-0022<br>東京都葛飾区水元４丁目２２−６</p>
+                <p>〒125-0032<br>東京都葛飾区水元４丁目２２−６</p>
                 <p>TEL: 03-3607-4749</p>
             </div>
             <div class="footer-col">
                 <h4>製造・開発</h4>
                 <p><strong>MDA松尾歯科技術研究所</strong></p>
-                <p>〒125-0032 <br>千葉県市川市鬼高2-11-12 504</p>
+                <p>〒272-0024<br>千葉県市川市鬼高2-11-12 504</p>
                 <p>TEL: 050-3701-1346</p>
                 <p>Email: mda.tribo@gmail.com</p>
             </div>
             <div class="footer-col">
                 <h4>サポート</h4>
-                <!-- ★変更: リンク先をBASE独自タグに置き換え -->
                 <p><a href="{ContactPageURL}">お問い合わせ</a></p>
                 <p><a href="{LawPageURL}">特定商取引法に基づく表記</a></p>
                 <p><a href="{PrivacyPageURL}">プライバシーポリシー</a></p>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2024 Arida Dental Clinic & MDA. All Rights Reserved.</p>
+            <p>&copy; 2024 Mizumoto Clinic & MDA. All Rights Reserved.</p>
         </div>
     </div>
 </footer>
@@ -442,7 +426,6 @@
     });
 </script>
 
-<!-- BASE独自タグ: エラー解消のため、表示に影響しないよう末尾に追加 -->
 <div style="display:none;">
     {BASEMenuTag}
     {ContactContentsTag}
